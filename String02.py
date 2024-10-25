@@ -6,4 +6,8 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    
+    s='ABCD'
+    return s
+x=main()
+print(x)

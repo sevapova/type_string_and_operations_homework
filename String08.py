@@ -7,4 +7,11 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return f"{last}, {fist_name}"
+    
+fist_name="Sevara"
+last_name="Latipova"
+
+x= main(fist_name,last_name)
+
+print (x)
